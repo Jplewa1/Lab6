@@ -33,4 +33,8 @@
   #onpage{
     text-decoration: underline overline;
   }
-  
+
+  #main-navbar{
+    background-color:blue;
+    overflow: hidden;
+  }
